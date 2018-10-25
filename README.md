@@ -1,5 +1,3 @@
 # ML-Workflow
 
-_ML lecture in KMOOC_
-
-*With Python*
+_ML Lecture in KMOOC with Python_
